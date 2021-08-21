@@ -5,8 +5,8 @@
 ## [✍️ Your Name]'s Kubernetes Journey
 
 ### Your Social
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/coderlens)
+- [LinkedIn](https://www.linkedin.com/in/lenink)
 
 ## Stepping out the door
 
